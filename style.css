@@ -10,7 +10,7 @@ button {
   font-family: inherit;
   font-size: inherit;
   color: inherit;
-  outline: none; /* Make sure thers is a visual indicator for focus state */
+  outline: none; /* Make sure there is a visual indicator for focus state */
 }
 
 /* BASE STYLES */
