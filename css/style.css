@@ -74,11 +74,7 @@ button {
   animation: fade-in-from-top 0.5s;
 }
 
-.dd-toggle:hover {
-  color: #fff;
-  background-color: rgba(255, 255, 255, 0.07);
-}
-
+.dd-toggle:hover,
 .dd-toggle:focus {
   color: #fff;
   background-color: rgba(255, 255, 255, 0.07);
