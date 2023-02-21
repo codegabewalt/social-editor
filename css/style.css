@@ -1,7 +1,7 @@
 /* RESET */
 * {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 button {
@@ -68,7 +68,7 @@ button {
 
 .dd-toggle {
   color: rgba(255, 255, 255, 0.7);
-  padding: 0 13px;
+  padding: 0px 13px;
   cursor: pointer;
   transition: all 0.4s;
   animation: fade-in-from-top 0.5s;
@@ -148,8 +148,8 @@ button {
   height: 100%;
   background-color: #375bb6;
   position: absolute;
-  left: 0;
-  top: 0;
+  left: 0px;
+  top: 0px;
 }
 
 .menu__icon {
