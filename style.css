@@ -52,7 +52,7 @@ button {
   display: flex;
 }
 
-/* STYLES */
+/* HEADER */
 .header {
   background-image: linear-gradient(to right, #18a0be, #622db9);
   height: 55px;
