@@ -139,7 +139,17 @@ button {
 .menu__button--active {
   background-color: #2b363b;
   color: #fff;
-  border-left: 3px solid #375bb6;
+  position: relative;
+}
+
+.menu__button--active::before {
+  content: '';
+  width: 3px;
+  height: 100%;
+  background-color: #375bb6;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 .menu__icon {
